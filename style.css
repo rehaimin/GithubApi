@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-image: url('images/bg.png');
+    background-size: cover;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.container {
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #FFF;
+}
+
+input {
+    width: 360px;
+    height: 40px;
+    border-radius: 15px;
+    padding-left: 15px;
+}
+
+.user-find {
+    display: flex;
+    margin-top: 20px;
+}
+
+.profile {
+    background-color: #FFF;
+    padding: 10px;
+}
+
+.profile img {
+    width: 250px;
+}
+
+h5 {
+    font-size: medium;
+}
+
+.d-none {
+    display: none;
+}
