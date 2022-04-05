@@ -8,12 +8,6 @@ body {
     background-attachment: fixed;
 }
 
-.main {
-    width: 100%;
-    min-height: 100vh;
-    background-color: rgba(0, 0, 0, .5);
-}
-
 .container {
     width: 1140px;
     margin: auto;
